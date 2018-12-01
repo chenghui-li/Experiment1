@@ -1,0 +1,9 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /home
+student:
+  classnum: 2015240601
+  studentnum: 201524030106
+  name: 李程辉
+  age: 21
